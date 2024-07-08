@@ -1,13 +1,13 @@
-# ChatIITK - An Advanced RAG ChatBot for IITK Junta
+# UP Police Notice Management - An Advanced RAG ChatBot for UP Police
 
-Developed by BCS under its Summer Project - Lluminating Language
+Developed by ICG and BCS 
 
 ## Environment Setup
 
 The app is still in prototyping stage so before running, create a separate virtual environment, so that there are no conflicts.
 ```
-conda create -n ChatIITK python=3.10.0
-conda activate ChatIITK
+conda create -n chatbot python=3.10.0
+conda activate chatbot
 ```
 
 After successfully creating a virtual env, install all the requirement for the project
